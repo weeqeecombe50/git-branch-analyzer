@@ -1,0 +1,13 @@
+{
+  "name": "git-branch-analyzer",
+  "version": "1.0.0",
+  "description": "Ein Tool zur Analyse von Git-Branches und zur Visualisierung von deren Beziehungen und Status.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "d3": "^7.0.0"
+  }
+}
